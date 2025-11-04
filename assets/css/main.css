@@ -267,3 +267,8 @@ footer a:not(.nav-link) {
         column-count:         1;
     }
 }
+
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
